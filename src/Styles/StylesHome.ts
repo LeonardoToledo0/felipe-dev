@@ -114,6 +114,7 @@ export const Donwload = styled(FaDownload)`
 export const HomeMain = styled.main`
   max-width: 1240px;
   margin: 0 500px;
+  margin-right: 400px;
   margin-top: -26px;
   display: flex;
   align-items: center;
