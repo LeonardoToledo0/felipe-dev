@@ -96,7 +96,7 @@ export const ExperienceAge = styled.p`
 `;
 export const DivDonwload = styled.div`
   max-width: 350px;
-  width: 70%;
+  width: 100%;
   height: 40px;
   margin: 20px auto;
   box-shadow: 2px 0px 7px rgba(0, 0, 0, 0.75);
@@ -124,7 +124,7 @@ export const TrabalhosDiv = styled.div`
   border: 4px solid transparent;
   box-shadow: 2px 0px 7px rgba(0, 0, 0, 0.75);
   border-radius: 8px;
-  width: 40%;
+  width: 60%;
   overflow: hidden;
 `;
 

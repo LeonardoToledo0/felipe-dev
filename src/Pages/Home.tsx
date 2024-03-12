@@ -80,7 +80,7 @@ export const Home: React.FC = () => {
           <S.TrabalhosDiv>
             <S.Trabalhos src={Trampo2} />
           </S.TrabalhosDiv>
-        </S.HomeMain>
+        </S.HomeMain>{" "}
         <S.HomeMain>
           <S.TrabalhosDiv>
             <S.Trabalhos src={Trampo1} />
